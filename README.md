@@ -1,4 +1,6 @@
-#Autonomous research & writing orchestrator using LangGraph supervisors, web-search/scrape agents, and document writer agents. Focus: safe, controlled multi-agent execution.
+# Autonomous Research & Writing Orchestrator
+
+Autonomous research & writing orchestrator using LangGraph supervisors, web-search/scrape agents, and document writer agents. Focus: safe, controlled multi-agent execution.
 
 A **hierarchical multi-agent system** built with LangGraph that autonomously researches any question using live web data and produces a structured, well-written document — using a supervisor-agent pattern with specialized research and writing teams.
 
